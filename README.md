@@ -5,7 +5,7 @@
 1. [Project Description](#project_description)
 2. [Installation](#installation) 
 3. [Usage](#usage)
-4. [Credit and Contributing](#credit_and_contributing)
+4. [Credit and Contribution](#credit_and_contributing)
 5. [License](#license)
 
 ## Project Description <a name="project_description"><a> 
@@ -138,7 +138,7 @@ The following shows the updated output when entering "vm" from the main menu aft
 <img width="797" alt="Screenshot 2023-04-18 at 18 21 39" src="https://user-images.githubusercontent.com/127111801/232841453-b85e1364-5c0b-4958-852c-190f2bc4886a.png">
 
 
-## Credit and Contributing <a name="credit_and_contributing"><a> 
+## Credit and Contribution <a name="credit_and_contributing"><a> 
 
 This project has been developed by Bonolo.
 
