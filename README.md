@@ -80,6 +80,8 @@ Once you login successfully, your will see the notice for that and also the foll
 
 <img width="809" alt="Screenshot 2023-04-18 at 17 40 51" src="https://user-images.githubusercontent.com/127111801/232829961-66412beb-b4d4-4f36-9023-1a8416dc28c0.png">
 
+- If you would like to return to the main menu, enter "-1"
+
 - If you would like to edit any of the tasks listed, enter the task number. 
 
 <img width="812" alt="Screenshot 2023-04-18 at 17 44 44" src="https://user-images.githubusercontent.com/127111801/232831728-dc0b0505-63cf-4349-8abb-10f1219fc774.png">
@@ -90,12 +92,22 @@ Following this, a screen will appear confirming the selection made.
 
 '- If you would like to mark the selected task as complete, enter "complete".
 
+<img width="812" alt="Screenshot 2023-04-18 at 17 44 44" src="https://user-images.githubusercontent.com/127111801/232833190-4f3d462c-6fdc-496a-a596-6ff332d5c5fc.png">
+
+'- If you would like to edit a selected task, enter "edit" instead of "complete.
+
+<img width="813" alt="Screenshot 2023-04-18 at 17 46 16" src="https://user-images.githubusercontent.com/127111801/232833479-3edf0450-54fe-42f4-a3bb-db0e1f3bd466.png">
+
+The following shows the updated output when entering "vm" from the main menu after the updates. This shows the update from marking task 3 as compelete and editing the date for task 9.
+
+<img width="813" alt="Screenshot 2023-04-18 at 17 55 46" src="https://user-images.githubusercontent.com/127111801/232834240-9c2e4e12-3bec-4e4c-b0d8-5f4230b9d35f.png">
 
 
 
 
 
-- If you would like to return to the main menu, enter "-1"
+
+
 
 
 
