@@ -17,14 +17,32 @@ This task manager tool is valuable to monitor the progress for task completion f
 - tasks.txt
 - user_overview.txt
 - user.txt
-2. Save the files into a project folder named task_manager
-3. Open and Integrated Development Environment (IDE) such as VSCode.
-4. Add the task_manager folder
-5. Open the file named task_manager.py
-6. Run and use the program in the IDE terminal.
-
+2. Create a project folder named task_manager.
+3. Move and save the downloaded files in the task_manager folder created.
+4. Open your local Integrated Development Environment (IDE) such as VSCode.
+5. Add the task_manager folder to your IDE.
+6. Open the file named task_manager.py and run.
+7. Use the program in the IDE terminal (i.e. this is where you can input the data and view output).
 
 ## Usage
+1. When you run your IDE, ensure that you are in the correct project directory.
+
+Check your location by typing:
+
+```
+ pwd
+```
+if you are not in the appropriate directory, enter:
+
+```
+cd task_manager
+```
+
+2. Enter the following login details to log in as admin:
+
+
+
+
 
 ## Credit and Contribution
 
