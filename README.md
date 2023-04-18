@@ -137,5 +137,5 @@ This project has been developed by Bonolo Ramasedi.
 
 ## License
 
-This project is not licensed and is intended for display purposes only. All rights reserved. No usage, distribution, or modification rights are granted. The project is showcased here as part of my portfolio.
+This project is not licensed and is intended for display purposes only. All rights reserved. No usage, distribution, or modification rights are granted.
 
