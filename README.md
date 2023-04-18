@@ -95,11 +95,11 @@ Following this, a screen will appear confirming the selection made.
 
 <img width="812" alt="Screenshot 2023-04-18 at 17 44 44" src="https://user-images.githubusercontent.com/127111801/232832606-0353cb21-4c34-451e-8c70-edab84a97727.png">
 
-'- If you would like to mark the selected task as complete, enter "complete".
+- If you would like to mark the selected task as complete, enter "complete".
 
 <img width="812" alt="Screenshot 2023-04-18 at 17 44 44" src="https://user-images.githubusercontent.com/127111801/232833190-4f3d462c-6fdc-496a-a596-6ff332d5c5fc.png">
 
-'- If you would like to edit a selected task, enter "edit" instead of "complete.
+- If you would like to edit a selected task, enter "edit" instead of "complete.
 
 <img width="813" alt="Screenshot 2023-04-18 at 17 46 16" src="https://user-images.githubusercontent.com/127111801/232833479-3edf0450-54fe-42f4-a3bb-db0e1f3bd466.png">
 
