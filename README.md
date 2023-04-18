@@ -140,7 +140,7 @@ The following shows the updated output when entering "vm" from the main menu aft
 
 ## Credit and Contributing <a name="credit_and_contributing"><a> 
 
-This project has been developed by Bonolo Ramasedi.
+This project has been developed by Bonolo.
 
 ## License <a name="license"><a> 
 
