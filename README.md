@@ -80,6 +80,22 @@ Once you login successfully, your will see the notice for that and also the foll
 
 <img width="809" alt="Screenshot 2023-04-18 at 17 40 51" src="https://user-images.githubusercontent.com/127111801/232829961-66412beb-b4d4-4f36-9023-1a8416dc28c0.png">
 
+- If you would like to edit any of the tasks listed, enter the task number. 
+
+<img width="812" alt="Screenshot 2023-04-18 at 17 44 44" src="https://user-images.githubusercontent.com/127111801/232831728-dc0b0505-63cf-4349-8abb-10f1219fc774.png">
+
+Following this, a screen will appear confirming the selection made.
+
+<img width="812" alt="Screenshot 2023-04-18 at 17 44 44" src="https://user-images.githubusercontent.com/127111801/232832606-0353cb21-4c34-451e-8c70-edab84a97727.png">
+
+'- If you would like to mark the selected task as complete, enter "complete".
+
+
+
+
+
+
+- If you would like to return to the main menu, enter "-1"
 
 
 
