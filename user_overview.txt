@@ -1,0 +1,86 @@
+Total number of users registered with tasks_manager.py: 12
+Total number of tasks that have been generated and tracked using task_manager.py: 9
+
+admin user details:
+Total number of tasks assigned to admin: 2
+Percentage of total number of tasks assigned to admin: 22.22%
+Percentage of tasks assigned to admin that have been completed: 50.0%
+Percentage of tasks assigned to admin that have not been completed: 50.0%
+Percentage of tasks assigned to admin that have not been completed and are overdue: 0.0%
+
+harry user details:
+Total number of tasks assigned to harry: 2
+Percentage of total number of tasks assigned to harry: 22.22%
+Percentage of tasks assigned to harry that have been completed: 0.0%
+Percentage of tasks assigned to harry that have not been completed: 100.0%
+Percentage of tasks assigned to harry that have not been completed and are overdue: 50.0%
+
+mary user details:
+Total number of tasks assigned to mary: 1
+Percentage of total number of tasks assigned to mary: 11.11%
+Percentage of tasks assigned to mary that have been completed: 0.0%
+Percentage of tasks assigned to mary that have not been completed: 100.0%
+Percentage of tasks assigned to mary that have not been completed and are overdue: 100.0%
+
+sally user details:
+Total number of tasks assigned to sally: 2
+Percentage of total number of tasks assigned to sally: 22.22%
+Percentage of tasks assigned to sally that have been completed: 50.0%
+Percentage of tasks assigned to sally that have not been completed: 50.0%
+Percentage of tasks assigned to sally that have not been completed and are overdue: 0.0%
+
+becky user details:
+Total number of tasks assigned to becky: 0
+Percentage of total number of tasks assigned to becky: 0.0%
+Percentage of tasks assigned to becky that have been completed: N/A%
+Percentage of tasks assigned to becky that have not been completed: N/A%
+Percentage of tasks assigned to becky that have not been completed and are overdue: N/A%
+
+mark user details:
+Total number of tasks assigned to mark: 0
+Percentage of total number of tasks assigned to mark: 0.0%
+Percentage of tasks assigned to mark that have been completed: N/A%
+Percentage of tasks assigned to mark that have not been completed: N/A%
+Percentage of tasks assigned to mark that have not been completed and are overdue: N/A%
+
+captain user details:
+Total number of tasks assigned to captain: 2
+Percentage of total number of tasks assigned to captain: 22.22%
+Percentage of tasks assigned to captain that have been completed: 0.0%
+Percentage of tasks assigned to captain that have not been completed: 100.0%
+Percentage of tasks assigned to captain that have not been completed and are overdue: 50.0%
+
+bobby user details:
+Total number of tasks assigned to bobby: 0
+Percentage of total number of tasks assigned to bobby: 0.0%
+Percentage of tasks assigned to bobby that have been completed: N/A%
+Percentage of tasks assigned to bobby that have not been completed: N/A%
+Percentage of tasks assigned to bobby that have not been completed and are overdue: N/A%
+
+paul user details:
+Total number of tasks assigned to paul: 0
+Percentage of total number of tasks assigned to paul: 0.0%
+Percentage of tasks assigned to paul that have been completed: N/A%
+Percentage of tasks assigned to paul that have not been completed: N/A%
+Percentage of tasks assigned to paul that have not been completed and are overdue: N/A%
+
+bob user details:
+Total number of tasks assigned to bob: 0
+Percentage of total number of tasks assigned to bob: 0.0%
+Percentage of tasks assigned to bob that have been completed: N/A%
+Percentage of tasks assigned to bob that have not been completed: N/A%
+Percentage of tasks assigned to bob that have not been completed and are overdue: N/A%
+
+markie user details:
+Total number of tasks assigned to markie: 0
+Percentage of total number of tasks assigned to markie: 0.0%
+Percentage of tasks assigned to markie that have been completed: N/A%
+Percentage of tasks assigned to markie that have not been completed: N/A%
+Percentage of tasks assigned to markie that have not been completed and are overdue: N/A%
+
+halle user details:
+Total number of tasks assigned to halle: 0
+Percentage of total number of tasks assigned to halle: 0.0%
+Percentage of tasks assigned to halle that have been completed: N/A%
+Percentage of tasks assigned to halle that have not been completed: N/A%
+Percentage of tasks assigned to halle that have not been completed and are overdue: N/A%

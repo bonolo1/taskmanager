@@ -1,0 +1,9 @@
+1. admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 15 Mar 2023, No
+2. admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 12 Mar 2023, Yes
+3. Sally, Meeting invites, Send calendar invite to the team for the status update meeting, 23 Dec 2022, 30 Jan 2023, Yes
+4. mary, Update tasks, Update and allocate tasks to the team members on the system, 23 Dec 2022, 20 Jan 2023, No
+5. harry, Project management board, Set up the team project management board, 10 Jan 2023, 30 Jan 2023, No
+6. Captain, Call Client, Call client to find out their updated timelines based on the news from leadership, 29 Jan 2023, 04 Feb 2023, No
+7. harry, Update Jira, Update Jira board for the work completed last week, 10 Feb 2023, 12 Mar 2024, No
+8. captain, Sales, Link up with the prospective client, 10 Feb 2023, 11 Mar 2023, No
+9. sally, Sales, Search for new sales lead for the Arlington region, 10 Feb 2023, 12 Apr 2023, No
