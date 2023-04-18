@@ -107,15 +107,28 @@ The following shows the updated output when entering "vm" from the main menu aft
 
 <img width="813" alt="Screenshot 2023-04-18 at 17 55 46" src="https://user-images.githubusercontent.com/127111801/232834240-9c2e4e12-3bec-4e4c-b0d8-5f4230b9d35f.png">
 
-7. To generate reports
+7. To generate reports, enter "gr".
+
+- This generates an overview of all tasks in the task_overview.txt file as follows:
+
+<img width="797" alt="Screenshot 2023-04-18 at 18 10 38" src="https://user-images.githubusercontent.com/127111801/232838751-4e6679e8-e98a-488d-a2a7-ea815455a2f3.png">
+
+- This also generates an overview of all the users and their task progress in the user_overview.txt file as follows:
+
+<img width="797" alt="Screenshot 2023-04-18 at 18 11 00" src="https://user-images.githubusercontent.com/127111801/232839040-122f3835-dc47-4245-ab38-db2919d5f650.png">
+
+8. If logged in as admin, the admin is able to print out the results of the task overview on the screen. To print out the task statistics and task overview on the screen, enter "ds".
+
+<img width="797" alt="Screenshot 2023-04-18 at 18 15 09" src="https://user-images.githubusercontent.com/127111801/232840856-fab4c6c5-4054-41de-9881-ba01c6a72866.png">
+
+- This is the output that prints out on the screen:
+
+<img width="797" alt="Screenshot 2023-04-18 at 18 15 27" src="https://user-images.githubusercontent.com/127111801/232841129-9f2eda1a-9f31-46ef-abbb-879b9c8eed28.png">
 
 
+9. To exit the program, enter "e" on the main menu.
 
-
-
-
-
-
+<img width="797" alt="Screenshot 2023-04-18 at 18 21 39" src="https://user-images.githubusercontent.com/127111801/232841453-b85e1364-5c0b-4958-852c-190f2bc4886a.png">
 
 
 ## Credit and Contribution
