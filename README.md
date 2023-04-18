@@ -80,7 +80,12 @@ Once you login successfully, your will see the notice for that and also the foll
 
 <img width="809" alt="Screenshot 2023-04-18 at 17 40 51" src="https://user-images.githubusercontent.com/127111801/232829961-66412beb-b4d4-4f36-9023-1a8416dc28c0.png">
 
+Please note: All the following are options available once you've selected the "vm" option in the main menu.
+
 - If you would like to return to the main menu, enter "-1"
+
+<img width="813" alt="Screenshot 2023-04-18 at 17 56 45" src="https://user-images.githubusercontent.com/127111801/232834649-9d05d621-5d78-4e3f-a95f-f09a5745af2a.png">
+
 
 - If you would like to edit any of the tasks listed, enter the task number. 
 
@@ -102,7 +107,7 @@ The following shows the updated output when entering "vm" from the main menu aft
 
 <img width="813" alt="Screenshot 2023-04-18 at 17 55 46" src="https://user-images.githubusercontent.com/127111801/232834240-9c2e4e12-3bec-4e4c-b0d8-5f4230b9d35f.png">
 
-
+7. To generate reports
 
 
 
