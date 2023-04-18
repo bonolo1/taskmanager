@@ -131,5 +131,11 @@ The following shows the updated output when entering "vm" from the main menu aft
 <img width="797" alt="Screenshot 2023-04-18 at 18 21 39" src="https://user-images.githubusercontent.com/127111801/232841453-b85e1364-5c0b-4958-852c-190f2bc4886a.png">
 
 
-## Credit and Contribution
+## Contributing
+
+This project has been developed by Bonolo Ramasedi.
+
+## License
+
+This project is not licensed and is intended for display purposes only. All rights reserved. No usage, distribution, or modification rights are granted. The project is showcased here as part of my portfolio.
 
