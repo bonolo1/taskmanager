@@ -1,4 +1,4 @@
-# taskmanager
+# Task Manager Project
 
 ## Table of Contents
 
