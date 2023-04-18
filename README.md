@@ -29,7 +29,7 @@ This task manager tool is valuable to monitor the progress for task completion f
 4. Open your local Integrated Development Environment (IDE) such as VSCode.
 5. Add the task_manager folder to your IDE.
 6. Open the file named task_manager.py and run.
-7. Use the program in the IDE terminal (i.e. this is where you can input the data and view output).
+7. Use the program in the IDE terminal (i.e. this is where you can input the data for the task manager and view output).
 
 ## Usage <a name="usage"><a> 
 1. When you run your IDE, ensure that you are in the correct project directory.
@@ -39,7 +39,7 @@ Check your location by typing:
 ```
  pwd
 ```
-if you are not in the appropriate directory, enter:
+If you are not in the appropriate directory, enter:
 
 ```
 cd task_manager
@@ -55,15 +55,14 @@ Or you can log in as a non-admin user, whereby you can use the following credent
 
 <img width="742" alt="Screenshot 2023-04-18 at 17 31 09" src="https://user-images.githubusercontent.com/127111801/232827382-3f38945e-9d2c-4859-8f3e-ec1d2071ea4c.png">
 
-
-Once you login successfully, your will see the notice for that and also the following menu options:
+Once you login successfully, you will see the message confirming that and also the following menu options:
 
 <img width="742" alt="Screenshot 2023-04-18 at 17 17 09" src="https://user-images.githubusercontent.com/127111801/232823294-18a7e896-b3a1-440b-b463-5d7bbc6a1e45.png">
 
-3. To add new users to the task manager, select and enter "r" from the menu.
+3. To add new users to the task manager, select "r" from the menu.
 
-- Enter a new user name that you would like to add. If a username already exists, you will be notified of this and you'll need to try again with a different new username.
-- Once the username has been added, choose a password and confirm the password. You will be notified if the password do not match whereby you'll need to try again with selecting a password.
+- Enter a new username that you would like to add. If a username already exists, you will be notified of this and you'll need to try again with a different new username.
+- Once the username has been added, choose a password and confirm the password. You will be notified if the passwords do not match whereby you'll need to try again with selecting a password.
 - A success message will be printed if the passwords match and the new user will be added to the system.
 
 <img width="742" alt="Screenshot 2023-04-18 at 17 04 09" src="https://user-images.githubusercontent.com/127111801/232823637-96d7d068-73c9-4c93-84f0-877b0d3db593.png">
@@ -106,11 +105,12 @@ Following this, a screen will appear confirming the selection made.
 
 <img width="812" alt="Screenshot 2023-04-18 at 17 44 44" src="https://user-images.githubusercontent.com/127111801/232833190-4f3d462c-6fdc-496a-a596-6ff332d5c5fc.png">
 
-- If you would like to edit a selected task, enter "edit" instead of "complete.
+- If you would like to edit the selected task instead, enter "edit" instead of "complete".
+- Follow the prompts to edit the desired information.
 
 <img width="813" alt="Screenshot 2023-04-18 at 17 46 16" src="https://user-images.githubusercontent.com/127111801/232833479-3edf0450-54fe-42f4-a3bb-db0e1f3bd466.png">
 
-The following shows the updated output when entering "vm" from the main menu after the updates. This shows the update from marking task 3 as compelete and editing the date for task 9.
+The following shows the updated output when entering "vm" from the main menu after the updates. This shows the update from marking task 3 as "complete" and editing the due date for task 9.
 
 <img width="813" alt="Screenshot 2023-04-18 at 17 55 46" src="https://user-images.githubusercontent.com/127111801/232834240-9c2e4e12-3bec-4e4c-b0d8-5f4230b9d35f.png">
 
