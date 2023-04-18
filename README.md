@@ -38,7 +38,48 @@ if you are not in the appropriate directory, enter:
 cd task_manager
 ```
 
-2. Enter the following login details to log in as admin:
+2. Log in.
+
+You can either log in as admin, whereby the credentials are as follows:
+
+<img width="742" alt="Screenshot 2023-04-18 at 17 04 30" src="https://user-images.githubusercontent.com/127111801/232822197-eacbedfa-8253-4df6-8e16-89d799185c27.png">
+
+Or you can log in as a non-admin user, whereby you can use the following credentials:
+
+<img width="742" alt="Screenshot 2023-04-18 at 17 31 09" src="https://user-images.githubusercontent.com/127111801/232827382-3f38945e-9d2c-4859-8f3e-ec1d2071ea4c.png">
+
+
+Once you login successfully, your will see the notice for that and also the following menu options:
+
+<img width="742" alt="Screenshot 2023-04-18 at 17 17 09" src="https://user-images.githubusercontent.com/127111801/232823294-18a7e896-b3a1-440b-b463-5d7bbc6a1e45.png">
+
+3. To add new users to the task manager, select and enter "r" from the menu.
+
+- Enter a new user name that you would like to add. If a username already exists, you will be notified of this and you'll need to try again with a different new username.
+- Once the username has been added, choose a password and confirm the password. You will be notified if the password do not match whereby you'll need to try again with selecting a password.
+- A success message will be printed if the passwords match and the new user will be added to the system.
+
+<img width="742" alt="Screenshot 2023-04-18 at 17 04 09" src="https://user-images.githubusercontent.com/127111801/232823637-96d7d068-73c9-4c93-84f0-877b0d3db593.png">
+
+
+4. To add a new task, select "a" from the menu.
+
+- Enter the user to whom the task is to be assigned. If the user you enter is not in the system, the program will print out the list of usernames from which to select.
+- Enter the title for the task.
+- Enter the description for the task.
+- Enter the the task due date (format: dd mmm yyyy).
+- A message will be printed once the task has been successfully added.
+
+<img width="746" alt="Screenshot 2023-04-18 at 17 33 46" src="https://user-images.githubusercontent.com/127111801/232828288-45263143-c478-47d0-ba70-8e0e943231ad.png">
+
+5. To view all tasks in the system, enter "va" which will list all tasks and the related relevant details.
+
+<img width="748" alt="Screenshot 2023-04-18 at 17 37 41" src="https://user-images.githubusercontent.com/127111801/232829277-d77386d6-43a4-4899-96cd-8bf63bc63935.png">
+
+6. To view only the tasks assigned to the user that has logged in (i.e. my tasks), enter "vm":
+
+<img width="809" alt="Screenshot 2023-04-18 at 17 40 51" src="https://user-images.githubusercontent.com/127111801/232829961-66412beb-b4d4-4f36-9023-1a8416dc28c0.png">
+
 
 
 
