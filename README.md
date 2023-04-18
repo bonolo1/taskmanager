@@ -2,7 +2,13 @@
 
 ## Table of Contents
 
-## Project Description
+1. [Project Description](#project_description)
+2. [Installation](#installation) 
+3. [Usage](#usage)
+4. [Credit and Contributing](#credit_and_contributing)
+5. [License](#license)
+
+## Project Description <a name="project_description"><a> 
 
 This project is a task management project management tool. It enables teams to allocate tasks to team members, monitor member tasks to view their status and and generate reports that help to track how the team is doing to identify tasks that are on track or behind to assist with completing the select project to which the tasks relate.
 
@@ -10,7 +16,8 @@ Users are able to create an account, login and create and allocate tasks to rele
 
 This task manager tool is valuable to monitor the progress for task completion for a project and identify risk areas to support completion of a project on time.
 
-## Installation
+## Installation <a name="installation"><a> 
+ 
 1. Download all the files in the repository which include:
 - task_manager.py
 - task_overview.txt
@@ -24,7 +31,7 @@ This task manager tool is valuable to monitor the progress for task completion f
 6. Open the file named task_manager.py and run.
 7. Use the program in the IDE terminal (i.e. this is where you can input the data and view output).
 
-## Usage
+## Usage <a name="usage"><a> 
 1. When you run your IDE, ensure that you are in the correct project directory.
 
 Check your location by typing:
@@ -131,11 +138,11 @@ The following shows the updated output when entering "vm" from the main menu aft
 <img width="797" alt="Screenshot 2023-04-18 at 18 21 39" src="https://user-images.githubusercontent.com/127111801/232841453-b85e1364-5c0b-4958-852c-190f2bc4886a.png">
 
 
-## Contributing
+## Credit and Contributing <a name="credit_and_contributing"><a> 
 
 This project has been developed by Bonolo Ramasedi.
 
-## License
+## License <a name="license"><a> 
 
 This project is not licensed and is intended for display purposes only. All rights reserved. No usage, distribution, or modification rights are granted.
 
